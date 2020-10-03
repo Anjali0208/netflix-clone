@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+It is based on a youtube lecture, and it is deployed on firebase.
 ## Available Scripts
 
 In the project directory, you can run:
